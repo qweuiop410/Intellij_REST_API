@@ -36,7 +36,7 @@ dependencies {
 ```
 
 + 요청
- + localhost:8080/hello
+   + localhost:8080/hello
 + 결과
  ``` json
  {
